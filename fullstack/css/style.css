@@ -1,5 +1,5 @@
 div{
-    background-color: #e4efe7;
+    background-color: blue;
 }
 body{
     margin:0px;
@@ -8,7 +8,7 @@ h1{
     margin-top:0;
 }
 .top{
-    background-color: red;
+    background-color: yellow;
     height: 200px;
     width: 200px;
     padding: 10px 10px 10px 10px;
